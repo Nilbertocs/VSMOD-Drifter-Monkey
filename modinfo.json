@@ -1,0 +1,13 @@
+{
+  "type": "content",
+  "modid": "macaco",
+  "name": "macaco",
+  "authors": [ "Bobycraft7002" ],
+  "description": "simplesmente macaco.",
+  "side": "client",
+  "version": "1.0",
+  "dependency": {
+    "game": "1.20.3"
+  },
+  "website": "https://www.youtube.com/@bobycraft7847"
+}
