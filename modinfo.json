@@ -2,12 +2,14 @@
   "type": "content",
   "modid": "macaco",
   "name": "macaco",
-  "authors": [ "Bobycraft7002" ],
-  "description": "simplesmente macaco.",
+  "authors": [
+    "Bobycraft7002"
+  ],
+  "description": "simplesmente macaco. (audio mono para som posicional)",
   "side": "client",
-  "version": "1.0",
-  "dependency": {
-    "game": "1.20.3"
+  "version": "1.1.0",
+  "dependencies": {
+    "game": "1.22.0"
   },
   "website": "https://www.youtube.com/@bobycraft7847"
 }
