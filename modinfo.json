@@ -9,7 +9,7 @@
   "side": "client",
   "version": "1.1.0",
   "dependencies": {
-    "game": "1.22.0"
+    "game": "1.22.7"
   },
   "website": "https://www.youtube.com/@bobycraft7847"
 }
